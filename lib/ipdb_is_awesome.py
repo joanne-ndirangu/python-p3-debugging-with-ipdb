@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 
 import ipdb
+# import ipdb is a statement that loads the ipdb library in this file when our application runs
 
 def tracing_the_function():
     inside_the_function = "We're inside the function"
